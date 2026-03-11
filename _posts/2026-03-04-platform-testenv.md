@@ -1,6 +1,6 @@
 ---
 title: platform 서버 - 테스트 환경 구축
-author: Hyeonjun Choi
+author: cgoing4dsk
 date: 2026-03-04 15:00:00 +0900
 categories: [3DEXPERIENCE platform, Server]
 tags: [server, test, backup, restore]
