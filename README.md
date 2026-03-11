@@ -1,4 +1,4 @@
-# CPE Tech 기술 Blog (3DEXPERIENCE Platform & ENOVIA) 🚀
+# CPE Tech 기술 Blog (3DEXPERIENCE platform & ENOVIA) 🚀
 
 이 레포지토리는 다쏘시스템코리아 파트너사를 위한 기술 블로그의 소스 코드와 콘텐츠를 관리합니다.
 
