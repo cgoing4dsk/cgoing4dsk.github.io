@@ -52,8 +52,8 @@ tags: [3dexperience, enovia, roles, portfolio, 포트폴리오, 에노비아]
 ---
 
 ## 기타 참조 url
-[프로그램 디렉토리](https://media.3ds.com/support/progdir/all/?pdir=3Dexp,r2026x,update01&context=onpremises)에서 ENOVIA role 참고
-[파트너사 포탈](https://dspart001-eu1-partners-ifwe.3dexperience.3ds.com)에서 **My OFFER for CPE** 앱 참고
+- [프로그램 디렉토리](https://media.3ds.com/support/progdir/all/?pdir=3Dexp,r2026x,update01&context=onpremises)에서 ENOVIA role 참고
+- [파트너사 포탈](https://dspart001-eu1-partners-ifwe.3dexperience.3ds.com)에서 **My OFFER for CPE** 앱 참고
 
 ---
 
